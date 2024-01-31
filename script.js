@@ -50,7 +50,7 @@ require([
             y: 4813697.1152,
             spatialReference: 3857
           },
-          zoom: 6,
+          zoom: 8,
           popup: {
             actions: []
           }
