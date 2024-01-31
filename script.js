@@ -22,7 +22,7 @@ require([
          ******************************************************************/
 
         const serviceRFT = new RasterFunction({
-          functionName: "TorontoFalseColor",
+          functionName: "MidwestFalseColor",
           variableName: "Raster"
         });
 
